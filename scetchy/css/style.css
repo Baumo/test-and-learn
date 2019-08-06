@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin-top: 5%
+}
+
+span {
+    display: inline-block;
+}
+
+#container {
+    margin-top: 5%
+}
+
+.colored {
+    background-color: black;
+}
+
+.grid {
+    border: solid 1px red;
+    padding: 20px 20px 20px 20px;
+}

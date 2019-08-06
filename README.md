@@ -1,2 +1,2 @@
 # test-and-learn
-Testing &amp; learning new libraries, frameworks, languages, ...
+Testing/Learning new Languages/Frameworks/etc.
